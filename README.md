@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ege-Guney
-- 👀 I’m interested in 
+- 👀 I’m interested in Software Engineering and Computer Science
 - 🌱 I’m currently learning Computer Science and Economics at McGill University
 - 📫 How to reach me -> you can find me on linkedin @ linkedin.com/in/ege-guney-0158b9166
 
