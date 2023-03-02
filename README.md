@@ -1,8 +1,9 @@
 
 
 
-<img src="https://user-images.githubusercontent.com/111835151/187214530-2fe3330c-950b-4cb1-a7e8-490353d86103.gif](https://user-images.githubusercontent.com/119132789/222535012-a8266c18-b4fb-4331-9bb0-3735e859512f.gif" />
-
+<div align="center">
+<img  src="https://user-images.githubusercontent.com/119132789/222535815-dc4b0ad4-2abe-448f-868e-6ea5059a45e6.gif" />
+</div>
 
 <h1 align="center">Hi 👋, I'm Ege Guney</h1>
 <h3 align="center">An independent and passionate computer engineering student who's open to learning and new experiences.</h3>
