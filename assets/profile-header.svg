@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="200" viewBox="0 0 960 200" role="img" aria-labelledby="title desc">
+  <title id="title">Ege Guney — software engineer</title>
+  <desc id="desc">A simple illustration of a desk with a computer, coffee mug, and plant.</desc>
+
+  <rect x="1" y="1" width="958" height="198" rx="18" fill="#f6f3ec" stroke="#ded9cf" stroke-width="2"/>
+
+  <text x="54" y="91" fill="#20201e" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="44" font-weight="650">Ege Guney</text>
+  <text x="56" y="125" fill="#68665f" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="20">software engineer</text>
+
+  <g fill="none" stroke="#292925" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M570 158h328"/>
+
+    <rect x="660" y="48" width="148" height="95" rx="7" fill="#fffdf8"/>
+    <path d="M734 143v15m-32 0h64"/>
+    <path d="m688 84 10 9-10 9"/>
+    <path d="M710 102h33" stroke="#507a70"/>
+    <path d="M710 84h63" stroke="#d18c65"/>
+
+    <path d="M837 112h38v33a13 13 0 0 1-13 13h-12a13 13 0 0 1-13-13v-33Z" fill="#fffdf8"/>
+    <path d="M875 121h7a12 12 0 0 1 0 24h-7"/>
+    <path d="M847 99c-7-8 7-11 0-20m15 20c-7-8 7-11 0-20" stroke="#d18c65"/>
+
+    <path d="M595 157h43l-5-40h-33l-5 40Z" fill="#fffdf8"/>
+    <path d="M616 116c-2-20-17-30-29-32 0 17 8 29 29 32Zm1 0c3-22 18-32 31-34-1 18-10 31-31 34Zm0-1c-14-18-12-34-5-44 12 12 15 27 5 44Z" fill="#91ad88"/>
+  </g>
+
+  <circle cx="878" cy="42" r="13" fill="#e5b95f"/>
+</svg>
