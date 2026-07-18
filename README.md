@@ -2,7 +2,7 @@
   <img src="./assets/profile-header.svg" width="100%" alt="Ege Guney — software engineer" />
 </p>
 
-# Hi, I'm Ege.
+# Introduction.
 
 I'm a software engineer based in Canada. I like taking things apart, understanding how they work, and building my own version—from a small file system in C to physics experiments in Unity and language-model apps on the web.
 
