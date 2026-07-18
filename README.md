@@ -4,13 +4,19 @@
 
 # Ege's Github Page.
 
-I'm a software engineer based in Canada. I like taking things apart, understanding how they work, and building my own version—from a small file system in C to physics experiments in Unity and language-model apps on the web.
+I'm a software engineer based in Canada. I use Java professionally, and outside work I like taking things apart, understanding how they work, and building my own version—from a small file system in C to physics experiments in Unity and language-model apps on the web.
 
-Most of the projects here started with a question I wanted to answer: *Could I turn roller-coaster track data into a rideable simulation? What does a file system look like underneath its API? How much of a physics engine can I build myself?*
+Most of the projects here started with a question I wanted to answer: *Could I turn roller-coaster track data into a rideable simulation? What does a file system look like underneath its API? How should an AI agent be allowed to use tools?*
 
 I learn best by building, and I try to leave each project understandable for the next person who opens it.
 
 ## A few projects I've enjoyed building
+
+### [Java Agent Workbench](https://github.com/Ege-Guney/java-agent-workbench)
+
+A compact Java 21 runtime for agentic workflows. Models can propose tool calls, while application code owns validation, approval gates, execution, step limits, and the audit trail. The repository includes seven tests plus shared project guidance for both Codex and Claude Code.
+
+`Java 21` · `Maven` · `JUnit` · `GitHub Actions`
 
 ### [Persona Studio](https://github.com/Ege-Guney/PersonaGPT-Web)
 
@@ -43,6 +49,6 @@ A Unity experiment where I implemented projectile motion, collision response, li
 - A [sentiment-analysis experiment](https://github.com/Ege-Guney/SentimentPredictor) comparing a web demo with an LSTM model
 - A few earlier Unity, React, and C++ projects that show where I started
 
-I work mostly with **C, C++, C#, Python, and JavaScript**, along with tools such as **Unity, React, Flask, and PyTorch**. The tools change from project to project; the part I enjoy is finding the right model for the problem and making the result easy to understand.
+I use **Java** professionally and also work with **C, C++, C#, Python, and JavaScript**, along with tools such as **Maven, Unity, React, Flask, and PyTorch**. The tools change from project to project; the part I enjoy is finding the right model for the problem and making the result easy to understand.
 
 If something here catches your interest, feel free to [connect with me on LinkedIn](https://www.linkedin.com/in/egeguney).
