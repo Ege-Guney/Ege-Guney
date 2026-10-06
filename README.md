@@ -12,6 +12,17 @@ I lead delivery across **8+ enterprise initiatives**, serve as technical lead on
 
 ### [ScoreVest](https://ege-guney-project-showcase.cprkdtnm4v.chatgpt.site/#scorevest) — evidence-first market research
 
+![ScoreVest working prototype presentation](https://raw.githubusercontent.com/Ege-Guney/project-showcase/main/dist/images/scorevest-screenshot-presentation.jpg)
+
+<details>
+<summary>Inspect the original iOS captures</summary>
+
+<table><tr><td><img src="https://raw.githubusercontent.com/Ege-Guney/project-showcase/main/dist/images/scorevest-working-home.png" alt="Working ScoreVest market briefing" width="220"></td><td><img src="https://raw.githubusercontent.com/Ege-Guney/project-showcase/main/dist/images/scorevest-working-research.png" alt="Working ScoreVest evidence review" width="220"></td></tr><tr><td>Market briefing</td><td>Ticker evidence and uncertainty</td></tr></table>
+
+</details>
+
+*Actual iOS development captures from an earlier working research build. Home uses demo fixtures; market figures are sample development data.*
+
 A native iOS research platform that brings public discussion, source quality, ticker context, and portfolio information together. Its research views expose attribution, freshness, confidence drivers, and evidence gaps so the reasoning behind a market narrative stays inspectable.
 
 The private codebase also includes a separate deterministic paper-manager engine with ordered risk checks, an append-only ledger, and decision receipts. Optional language-model narration explains recorded facts; it has no authority over trades or the ledger. The public showcase presents the product and engineering approach. ScoreVest remains in active development, with no investment-performance claim.
@@ -22,19 +33,23 @@ The private codebase also includes a separate deterministic paper-manager engine
 
 ### [DIANA](https://ege-guney-project-showcase.cprkdtnm4v.chatgpt.site/diana/) — a foundation for supervised AI work
 
+![DIANA working demo presentation](https://raw.githubusercontent.com/Ege-Guney/project-showcase/main/dist/images/diana-screenshot-presentation.jpg)
+
+*Captured from the interactive public demo with fictional Meridian examples.*
+
 An AI workspace interface prototype exploring how governance, visible system state, and review controls can make AI-assisted work easier to understand and supervise. Its current showcase focuses on the interface and trust foundation.
 
 **Demonstrates:** product thinking, interface design, and the translation of AI governance concepts into a usable experience.
 
 ### SpectateAI — inspectable agent behaviour
 
-![SpectateAI future concept preview](https://raw.githubusercontent.com/Ege-Guney/project-showcase/main/dist/images/spectateai-concept.png)
+![SpectateAI playable prototype presentation](https://raw.githubusercontent.com/Ege-Guney/project-showcase/main/dist/images/spectateai-screenshot-presentation.jpg)
 
-*Future visual concept; the working prototype is linked below.*
+*Actual playable prototype: resident activity, village state, and spectator controls.*
 
 **[Spectate: current simulation](https://ege-guney-project-showcase.cprkdtnm4v.chatgpt.site/spectate/)** is a Godot prototype following **12 villagers** whose needs, beliefs, resource scarcity, and rumours shape their decisions. Its deterministic, utility-based engine makes behaviour inspectable and runs reproducible, providing an interactive way to explore how individual rules produce group outcomes.
 
-**[SpectateAI: future concept](https://ege-guney-project-showcase.cprkdtnm4v.chatgpt.site/#spectateai)** extends that direction toward a richer AI game. Language-model features are planned; the implemented simulation uses utility-based decision rules.
+**[SpectateAI: project overview](https://ege-guney-project-showcase.cprkdtnm4v.chatgpt.site/#spectateai)** extends that direction toward a richer AI game. Language-model features are planned; the implemented simulation uses utility-based decision rules.
 
 **Demonstrates:** agent-system design, simulation mechanics, state modelling, and interactive explanation through deterministic decision rules.
 
@@ -45,3 +60,37 @@ I use AI coding tools to accelerate implementation while retaining responsibilit
 **Core tools:** Java, Spring Boot, PostgreSQL, SwiftUI, Godot, Git, Docker, and AI-assisted development with Claude Code and Codex.
 
 [Project showcase](https://ege-guney-project-showcase.cprkdtnm4v.chatgpt.site/) · [Privacy](https://ege-guney-project-showcase.cprkdtnm4v.chatgpt.site/privacy/) · [LinkedIn](https://www.linkedin.com/in/egeguney) · [GitHub](https://github.com/Ege-Guney)
+
+## Optional concept previews
+
+The working captures above show implemented prototypes. These secondary images explore future design directions.
+
+
+<details>
+<summary>Future ScoreVest design direction</summary>
+
+![Future ScoreVest concept](https://raw.githubusercontent.com/Ege-Guney/project-showcase/main/dist/images/scorevest-concept-human.png)
+
+*AI-generated concept. Illustrative data and proposed interface; not a working app capture.*
+
+</details>
+
+
+<details>
+<summary>Future DIANA design direction</summary>
+
+![Future DIANA concept](https://raw.githubusercontent.com/Ege-Guney/project-showcase/main/dist/images/diana-concept.png)
+
+*AI-generated concept. Fictional workflow and proposed interface; not a working app capture.*
+
+</details>
+
+
+<details>
+<summary>Future SpectateAI design direction</summary>
+
+![Future SpectateAI concept](https://raw.githubusercontent.com/Ege-Guney/project-showcase/main/dist/images/spectateai-concept.png)
+
+*AI-generated concept. Proposed graphics and interface; not implemented game visuals.*
+
+</details>
