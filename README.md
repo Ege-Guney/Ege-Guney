@@ -43,9 +43,16 @@ An AI workspace interface prototype exploring how governance, visible system sta
 
 ### SpectateAI — inspectable agent behaviour
 
-![SpectateAI playable prototype presentation](https://raw.githubusercontent.com/Ege-Guney/project-showcase/main/dist/images/spectateai-screenshot-presentation.jpg)
+![SpectateAI future visual concept](https://raw.githubusercontent.com/Ege-Guney/project-showcase/main/dist/images/spectateai-concept.png)
 
-*Actual playable prototype: resident activity, village state, and spectator controls.*
+*Future visual concept showing the intended art direction. The playable prototype linked below uses its current graphics.*
+
+<details>
+<summary>See the working gameplay prototype</summary>
+
+![Actual SpectateAI gameplay presentation](https://raw.githubusercontent.com/Ege-Guney/project-showcase/main/dist/images/spectateai-screenshot-presentation.jpg)
+
+</details>
 
 **[Spectate: current simulation](https://ege-guney-project-showcase.cprkdtnm4v.chatgpt.site/spectate/)** is a Godot prototype following **12 villagers** whose needs, beliefs, resource scarcity, and rumours shape their decisions. Its deterministic, utility-based engine makes behaviour inspectable and runs reproducible, providing an interactive way to explore how individual rules produce group outcomes.
 
@@ -63,7 +70,7 @@ I use AI coding tools to accelerate implementation while retaining responsibilit
 
 ## Optional concept previews
 
-The working captures above show implemented prototypes. These secondary images explore future design directions.
+ScoreVest and DIANA show their working interfaces above; the additional concepts below explore possible future directions. SpectateAI features its preferred concept artwork with gameplay captures available underneath.
 
 
 <details>
@@ -82,15 +89,5 @@ The working captures above show implemented prototypes. These secondary images e
 ![Future DIANA concept](https://raw.githubusercontent.com/Ege-Guney/project-showcase/main/dist/images/diana-concept.png)
 
 *AI-generated concept. Fictional workflow and proposed interface; not a working app capture.*
-
-</details>
-
-
-<details>
-<summary>Future SpectateAI design direction</summary>
-
-![Future SpectateAI concept](https://raw.githubusercontent.com/Ege-Guney/project-showcase/main/dist/images/spectateai-concept.png)
-
-*AI-generated concept. Proposed graphics and interface; not implemented game visuals.*
 
 </details>
