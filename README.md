@@ -1,54 +1,47 @@
-<p align="center">
-  <img src="./assets/profile-header.svg" width="100%" alt="Ege Guney — software engineer" />
-</p>
+# Ege Guney
 
-# Ege's Github Page.
+### Senior Software Developer · AI Engineering · Strategic Analytics
 
-I'm a software engineer based in Canada. I use Java professionally, and outside work I like taking things apart, understanding how they work, and building my own version—from a small file system in C to physics experiments in Unity and language-model apps on the web.
+I build software for complex, high-volume systems and turn analytical ideas into working products. My professional focus is payments technology; my independent work explores evidence-driven research, supervised AI workflows, and simulations whose behaviour can be understood and inspected.
 
-Most of the projects here started with a question I wanted to answer: *Could I turn roller-coaster track data into a rideable simulation? What does a file system look like underneath its API? How should an AI agent be allowed to use tools?*
+I lead delivery across **8+ enterprise initiatives**, serve as technical lead on **three**, and coordinate production deployments across **4+ teams**. That work combines hands-on engineering with technical ownership, incident response, and release responsibility.
 
-I learn best by building, and I try to leave each project understandable for the next person who opens it.
+**Management Analytics · Smith School of Business · 2026**
 
-## A few projects I've enjoyed building
+## Featured work
 
-### [Java Agent Workbench](https://github.com/Ege-Guney/java-agent-workbench)
+### [ScoreVest](https://ege-guney-project-showcase.cprkdtnm4v.chatgpt.site/#scorevest) — evidence-first market research
 
-A compact Java 21 runtime for agentic workflows. Models can propose tool calls, while application code owns validation, approval gates, execution, step limits, and the audit trail. The repository includes seven tests plus shared project guidance for both Codex and Claude Code.
+A native iOS research platform that brings public discussion, source quality, ticker context, and portfolio information together. Its research views expose attribution, freshness, confidence drivers, and evidence gaps so the reasoning behind a market narrative stays inspectable.
 
-`Java 21` · `Maven` · `JUnit` · `GitHub Actions`
+The private codebase also includes a separate deterministic paper-manager engine with ordered risk checks, an append-only ledger, and decision receipts. Optional language-model narration explains recorded facts; it has no authority over trades or the ledger. The public showcase presents the product and engineering approach. ScoreVest remains in active development, with no investment-performance claim.
 
-### [Persona Studio](https://github.com/Ege-Guney/PersonaGPT-Web)
+**Demonstrates:** full-stack product engineering, research-data architecture, analytical reasoning, and reproducible decision systems.
 
-A web app for conversations with different AI personas. I recently rebuilt it with a cleaner interface, session-aware conversations, JSON APIs, lazy model loading, tests, and production packaging.
+`Java 21` · `Spring Boot` · `PostgreSQL` · `SwiftUI` · `OpenAPI`
 
-`Python` · `Flask` · `PyTorch` · `Transformers`
+### [DIANA](https://ege-guney-project-showcase.cprkdtnm4v.chatgpt.site/diana/) — a foundation for supervised AI work
 
-### [Roller Coaster Visualizer](https://github.com/Ege-Guney/RollerCoaster-Simulator)
+An AI workspace interface prototype exploring how governance, visible system state, and review controls can make AI-assisted work easier to understand and supervise. Its current showcase focuses on the interface and trust foundation.
 
-A tool that reads RollerCoaster Tycoon 2-style track data and recreates the ride as a Unity spline. This was a fun mix of data parsing, coordinate systems, procedural construction, and animation.
+**Demonstrates:** product thinking, interface design, and the translation of AI governance concepts into a usable experience.
 
-`C#` · `Unity` · `Splines`
+### SpectateAI — inspectable agent behaviour
 
-### [Simple File System](https://github.com/Ege-Guney/File-System-Project)
+![SpectateAI future concept preview](https://raw.githubusercontent.com/Ege-Guney/project-showcase/main/dist/images/spectateai-concept.png)
 
-A persistent, single-directory file system built over an emulated block device. It includes inodes, bitmap allocation, direct and indirect addressing, file descriptors, and disk persistence.
+*Future visual concept; the working prototype is linked below.*
 
-`C` · `POSIX` · `Systems programming`
+**[Spectate: current simulation](https://ege-guney-project-showcase.cprkdtnm4v.chatgpt.site/spectate/)** is a Godot prototype following **12 villagers** whose needs, beliefs, resource scarcity, and rumours shape their decisions. Its deterministic, utility-based engine makes behaviour inspectable and runs reproducible, providing an interactive way to explore how individual rules produce group outcomes.
 
-### [StickFish Physics Engine](https://github.com/Ege-Guney/StickFish-PhysicsEngine)
+**[SpectateAI: future concept](https://ege-guney-project-showcase.cprkdtnm4v.chatgpt.site/#spectateai)** extends that direction toward a richer AI game. Language-model features are planned; the implemented simulation uses utility-based decision rules.
 
-A Unity experiment where I implemented projectile motion, collision response, lifetime rules, and deformable line-rendered bodies instead of relying entirely on the built-in physics system.
+**Demonstrates:** agent-system design, simulation mechanics, state modelling, and interactive explanation through deterministic decision rules.
 
-`C#` · `Unity` · `Physics`
+## How I work
 
-## Other things in here
+I use AI coding tools to accelerate implementation while retaining responsibility for requirements, architecture, code review, and verification. I value clear contracts, observable behaviour, and documentation that lets the next person understand both the result and its limits.
 
-- A [small C shell](https://github.com/Ege-Guney/Shell-Script-C) with pipes, redirection, signals, and background jobs
-- A [React game hub](https://github.com/Ege-Guney/SmallGameHub) with four small browser games
-- A [sentiment-analysis experiment](https://github.com/Ege-Guney/SentimentPredictor) comparing a web demo with an LSTM model
-- A few earlier Unity, React, and C++ projects that show where I started
+**Core tools:** Java, Spring Boot, PostgreSQL, SwiftUI, Godot, Git, Docker, and AI-assisted development with Claude Code and Codex.
 
-I use **Java** professionally and also work with **C, C++, C#, Python, and JavaScript**, along with tools such as **Maven, Unity, React, Flask, and PyTorch**. The tools change from project to project; the part I enjoy is finding the right model for the problem and making the result easy to understand.
-
-If something here catches your interest, feel free to [connect with me on LinkedIn](https://www.linkedin.com/in/egeguney).
+[Project showcase](https://ege-guney-project-showcase.cprkdtnm4v.chatgpt.site/) · [Privacy](https://ege-guney-project-showcase.cprkdtnm4v.chatgpt.site/privacy/) · [LinkedIn](https://www.linkedin.com/in/egeguney) · [GitHub](https://github.com/Ege-Guney)
