@@ -8,6 +8,72 @@ I lead delivery across **8+ enterprise initiatives**, serve as technical lead on
 
 **Management Analytics · Smith School of Business · 2026**
 
+## Featured research
+
+### FLY Social — a pet fruit fly with a real connectome brain
+
+![FLY Social: a pet fruit fly with a real brain](assets/fly-social/hero.jpg)
+
+*Banner designed from a real capture: her 3D body is the flybody fruit-fly model, walking with the recorded leg motion of a real fly.*
+
+A research prototype in which every reaction of a pet fruit fly comes from a spiking model of a complete, mapped fly connectome: BANC, the brain and nerve cord of one real fly, with **169,078 cells** and **13.6 million connections** in its wiring. I re-implemented the published whole-brain model (Shiu et al., *Nature* 2024), cross-checked it against the original on FlyWire's sugar pathway (r = 0.999, the pathway cross-checked so far), and ported its kernel to one dependency-free C file that runs bit-identically in WebAssembly. On a fast desktop, one simulated second of a sugar trial takes about a quarter of a second of compute.
+
+Every claim is tested before it reaches the screen. Each behaviour is measured over many fresh trials, most key results are re-run by a separate skeptic pass, and every element on screen is labelled BRAIN, REPLAY, MODEL, DESIGN, ANIMATION or NEXT TEST. The results are presented as predictions about wiring, never as findings about real flies.
+
+<table><tr>
+<td width="50%"><img src="assets/fly-social/02-escape-cliff.png" alt="Escape is a cliff, not a slope: the take-off neuron stays silent up to 15 Hz of looming drive, then fires in every trial by 25 Hz"></td>
+<td width="50%"><img src="assets/fly-social/03-sisters.png" alt="Each fly has her own escape edge: from 2 to 21 take-offs in 24 trials at the same shadow"></td>
+</tr><tr>
+<td valign="top"><b>Escape is a cliff, not a slope.</b> In the model, her take-off neuron stays silent up to a threshold of looming drive, then fires in every trial.</td>
+<td valign="top"><b>Every sister is her own fly.</b> At the same shadow, eight simulated flies took off from 2 to 21 times in 24 (p ≈ 1.5 × 10⁻⁹): in the model, how jumpy she is lives in her wiring.</td>
+</tr></table>
+
+<details>
+<summary>Inside her brain: one sugar drop, and which side she sees a threat on</summary>
+
+<table><tr>
+<td width="44%"><img src="assets/fly-social/05-brain-view.png" alt="Every cell of the fly's brain and nerve cord at its real position; the cells that fired during a sugar drop glow gold"></td>
+<td valign="top"><img src="assets/fly-social/04-sides.png" alt="Escape-related neurons fire only on the side of the shadow"><br><br><b>Left:</b> 150,687 cells at their real positions; the ones that fired during four one-second sugar trials glow gold. <b>Above:</b> in the model, a shadow on one eye fires escape-related neurons only on that side.</td>
+</tr></table>
+
+*Figures drawn from the project's committed lab results and one live run of its engine (BANC v888, simulation).*
+
+</details>
+
+<details>
+<summary>See the prototype: Perch, the 3D fly and the brain lab</summary>
+
+<table><tr>
+<td width="33%"><img src="assets/fly-social/perch-2-emerging.jpg" alt="A new fly emerging in the nursery jar"></td>
+<td width="33%"><img src="assets/fly-social/perch-3-sisters.jpg" alt="Three sisters, each with a sugar tune from her own feeding neuron"></td>
+<td width="33%"><img src="assets/fly-social/perch-4-home.jpg" alt="Day 1 of 50 in her nursery jar"></td>
+</tr></table>
+
+![The 3D fly beside the hand-drawn fly](assets/fly-social/fly-3d-vs-2d.jpg)
+
+![The 3D brain view: every cell at its real position, a recorded sugar trial lit, and the path card naming the route](assets/fly-social/brain-3d-view.jpg)
+
+![The brain lab after four live sugar trials](assets/fly-social/brain-lab.jpg)
+
+*Actual captures of the working web prototype, the 3D proof page, the 3D brain view with its path card, and the brain lab running the whole connectome live in the browser.*
+
+</details>
+
+<details>
+<summary>Concept designs: where it is going</summary>
+
+![Four concept phone screens: the path card, the brain view, her own fig and her shareable card](assets/fly-social/concepts-board.jpg)
+
+*Concept designs, not working screens. Each is assembled from real renders and lab numbers, and shows a direction from the project's decision log.*
+
+</details>
+
+**Demonstrates:** computational neuroscience, scientific software engineering across Python, C and WebAssembly, reproducible experiment design with adversarial re-checks, data visualisation, and honest product design built on research.
+
+`Python` · `numba` · `C` · `WebAssembly` · `three.js` · `matplotlib`
+
+*A research prototype, not a product. The open-source repository is in review before it goes public.*
+
 ## Featured work
 
 ### [ScoreVest](https://ege-guney-project-showcase.cprkdtnm4v.chatgpt.site/#scorevest) — evidence-first market research
